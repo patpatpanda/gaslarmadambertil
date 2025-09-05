@@ -560,9 +560,7 @@ const MapComponent = () => {
               />
             </form>
 
-            <Button onClick={handleBlogRedirect} variant="contained" color="primary" >
-              Gå till Bloggen
-            </Button>
+         
 
             {searchMade && (
               <>
